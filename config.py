@@ -1,5 +1,5 @@
-# Telegram mine token
-token = '1301542979:AAEe1DLFqerP-3_WJQqpNiOIPi_WNHunJAU'
+#token
+token = 'YOUR_TOKEN'
 
-# Currency rates API
-url = 'https://currate.ru/'
+#API
+url = 'https://api.privatbank.ua/p24api/pubinfo?json&exchange&coursid=5'
